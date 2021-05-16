@@ -1,0 +1,5 @@
+This is my first file.
+This is the second line of the file.
+I am satisfied now.
+
+Some more changes.
