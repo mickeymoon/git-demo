@@ -3,3 +3,6 @@ This is the second line of the file.
 I am satisfied now.
 
 Some more changes.
+
+
+This change is for feature 1.
